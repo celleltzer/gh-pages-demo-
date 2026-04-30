@@ -1,6 +1,11 @@
 
 
 # Ida Bailey Allen's Orange and Date Cake
+
+
+![book cover](/images/calender_cookbook_cover.png)
+
+
 ## Orange and Date Cake
 
 ![Date cake with tea](/images/orange_date_cake.png)
